@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamesrencher3
+- 👋 Hi, I’m @Jamesrencher3 (on twitter)
 - 👀 I’m interested in OSINT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing... I'm a noob at coding Python
